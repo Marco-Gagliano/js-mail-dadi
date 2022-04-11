@@ -1,3 +1,34 @@
+/* HEADER */
+
+header {
+  background-image: url(https://c1.wallpaperflare.com/preview/388/826/444/cube-role-playing-game-pay-instantaneous-speed.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.checked {
+  background-color: #00FF22;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+.denied {
+  background-color: #FF0000;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+.button-login {
+  padding: 5px 15px;
+  background-color: #000000;
+  color: #FFFFFF;
+  border-radius: 10px;
+}
+
+/* /HEADER */
+
+
+/* MAIN */
 main {
   background-image: url(/img/king-dice.jpg);
   background-size: cover;
@@ -9,3 +40,5 @@ main {
   color: #FFFFFF;
   padding: 5px 30px;
 }
+
+/* /MAIN */
